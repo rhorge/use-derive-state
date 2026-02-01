@@ -1,6 +1,6 @@
 {
   "name": "use-derive-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React Hook that Creates a Derived State from a Reactive Value (Fixing the Cascading Updates Issue)",
   "keywords": [
     "react",
