@@ -48,6 +48,7 @@
     "start": "rollup -c -w",
     "test": "jest"
   },
+  "sideEffects": false,
   "devDependencies": {
     "@testing-library/react-hooks": "^3.4.1",
     "@types/jest": "^26.0.7",
